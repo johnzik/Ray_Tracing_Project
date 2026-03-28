@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc D:\Giannis\DUTH\Ray_Tracing_Project\lib\libRAY_TRACING_PROJECT.a CMakeFiles/RAY_TRACING_PROJECT.dir/src/main.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe D:\Giannis\DUTH\Ray_Tracing_Project\lib\libRAY_TRACING_PROJECT.a
